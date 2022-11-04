@@ -1,8 +1,12 @@
-<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/> </a> </h1>
+<h1 align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="40"/>
+      Sales Insights - Data Analysis using Tableau & SQL 
+<img src="https://user-images.githubusercontent.com/89902664/187017106-a1661038-aaae-4f8e-a6a0-4159c0a9ff6f.png" alt="tableau" width="55" height="40"/> 
+</h1>
 
 **A repository containing sales Data on Data Analysis and Data Visualization is performed - A Data Analysis Project performed on MySQL and Tableau for fulfilment of course:** `18CSE355T - Data Mining and Analytics`
 
-### About Project 👨‍💻
+### About the Project 👨‍💻
 
 - Performed India based hardware company Sales Insights - A Data Analysis project.
 
