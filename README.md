@@ -1,6 +1,5 @@
 <h1 align="center">
-Sales Insights - Handling Data using Tableau & SQL
-<img src="https://user-images.githubusercontent.com/89902664/187017106-a1661038-aaae-4f8e-a6a0-4159c0a9ff6f.png" alt="tableau" width="55" height="40"/> 
+Sales Insights - Handling Data using Tableau, SQL and Weka📈📝
 </h1>
 
 **A repository containing sales Data on Data Analysis and Data Visualization is performed - A Data Analysis Project performed on MySQL and Tableau for fulfilment of course:** `18CSE355T - Data Mining and Analytics`
